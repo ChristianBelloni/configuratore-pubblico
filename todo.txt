@@ -1,0 +1,2 @@
+sostituzione codici ean con codici ref leroy merlin (Encoding ean8)
+aggiungere descrizione solo su pdf

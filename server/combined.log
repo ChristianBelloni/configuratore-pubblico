@@ -1,0 +1,1033 @@
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":{},"service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"error","message":"Bad json","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"error","message":"Bad json","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":{"ChiusuraLaterale1280":{"color":"Bianco","eanCode":"8050713250195","label":"Chiusura laterale 1980","model":"CLOSE","quantity":0,"refLink":"https://www.leroymerlin.it/v3/search/search.do?keyword=8050713250195"},"ChiusuraLaterale1980":{"color":"Bianco","eanCode":"8050713250195","label":"Chiusura laterale 1980","model":"CLOSE","quantity":2,"refLink":"https://www.leroymerlin.it/v3/search/search.do?keyword=8050713250195"},"Distanziatore":{"color":"Bianco","eanCode":"8050713250157","label":"Distanziatore","model":"120/20","quantity":120,"refLink":"https://www.leroymerlin.it/v3/search/search.do?keyword=8050713250157"},"DogheSingole":{"color":"Bianco","eanCode":"8050713250065","label":"Doga","model":"120/20","quantity":0,"refLink":"https://www.leroymerlin.it/v3/search/search.do?keyword=8050713250065"},"DogheX4":{"color":"Bianco","eanCode":"8050713250072","label":"Doga x 4","model":"120/20","quantity":15,"refLink":"https://www.leroymerlin.it/v3/search/search.do?keyword=8050713250072"},"Piastra":{"color":"Bianco","eanCode":"8050713250218","label":"Piastra","model":"120/20","quantity":7,"refLink":"https://www.leroymerlin.it/v3/search/search.do?keyword=8050713250218"},"Pilastro1280":{"color":"Bianco","eanCode":"8050713250027","label":"Pilastro 1280","model":"120/20","quantity":0,"refLink":"https://www.leroymerlin.it/v3/search/search.do?keyword=8050713250027"},"Pilastro1980":{"color":"Bianco","eanCode":"8050713250034","label":"Pilastro 1980","model":"120/20","quantity":7,"refLink":"https://www.leroymerlin.it/v3/search/search.do?keyword=8050713250034"},"Tappo":{"color":"Bianco","eanCode":"8050713250232","label":"Tappo","model":"120/20","quantity":7,"refLink":"https://www.leroymerlin.it/v3/search/search.do?keyword=8050713250232"}},"service":"user-service"}
+{"level":"error","message":"Bad json","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"error","message":"Bad json","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"error","message":"Bad json","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"error","message":"Bad json","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"error","message":"Bad json","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"error","message":"Bad json","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"error","message":"Bad json","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"error","message":"Bad json","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"error","message":"Bad json","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"error","message":"Bad json","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"error","message":"Bad json","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 15.519999999999982","service":"user-service"}
+{"level":"info","message":"163.82 280.32 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 298.38 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 316.44 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 334.5 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 352.56 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 370.62 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 388.68 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 406.74 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 15.519999999999982","service":"user-service"}
+{"level":"info","message":"163.82 280.32 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 298.38 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 316.44 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 334.5 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 352.56 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 370.62 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 388.68 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 406.74 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 15.519999999999982","service":"user-service"}
+{"level":"info","message":"163.82 280.32 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 298.38 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 316.44 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 334.5 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 352.56 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 370.62 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 388.68 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 406.74 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 15.519999999999982","service":"user-service"}
+{"level":"info","message":"163.82 280.32 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 298.38 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 316.44 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 334.5 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 352.56 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 370.62 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 388.68 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 406.74 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 15.519999999999982","service":"user-service"}
+{"level":"info","message":"163.82 280.32 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 298.38 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 316.44 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 334.5 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 352.56 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 370.62 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 388.68 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 406.74 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 15.519999999999982","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 15.519999999999982","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 15.519999999999982","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 15.519999999999982","service":"user-service"}
+{"level":"info","message":"163.82 280.32 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 298.38 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 316.44 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 334.5 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 352.56 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 370.62 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 388.68 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 406.74 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"end","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 15.519999999999982","service":"user-service"}
+{"level":"info","message":"163.82 280.32 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 298.38 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 316.44 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 334.5 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 352.56 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 370.62 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 388.68 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 406.74 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"End","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 15.519999999999982","service":"user-service"}
+{"level":"info","message":"163.82 280.32 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 298.38 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 316.44 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 334.5 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 352.56 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 370.62 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 388.68 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 406.74 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 15.519999999999982","service":"user-service"}
+{"level":"info","message":"163.82 280.32 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 298.38 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 316.44 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 334.5 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 352.56 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 370.62 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 388.68 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 406.74 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 15.519999999999982","service":"user-service"}
+{"level":"info","message":"163.82 280.32 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 298.38 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 316.44 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 334.5 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 352.56 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 370.62 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 388.68 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"163.82 406.74 133.82 17.560000000000002","service":"user-service"}
+{"level":"info","message":"End","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 290.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 317.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 343.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 370.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 396.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 423.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 449.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 476.3 133.82 26","service":"user-service"}
+{"level":"info","message":"End","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 290.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 317.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 343.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 370.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 396.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 423.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 449.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 476.3 133.82 26","service":"user-service"}
+{"level":"info","message":"End","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 290.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 317.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 343.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 370.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 396.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 423.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 449.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 476.3 133.82 26","service":"user-service"}
+{"level":"info","message":"End","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 290.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 317.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 343.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 370.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 396.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 423.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 449.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 476.3 133.82 26","service":"user-service"}
+{"level":"info","message":"End","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 290.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 317.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 343.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 370.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 396.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 423.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 449.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 476.3 133.82 26","service":"user-service"}
+{"level":"info","message":"End","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 290.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 317.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 343.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 370.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 396.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 423.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 449.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 476.3 133.82 26","service":"user-service"}
+{"level":"info","message":"End","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 290.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 317.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 343.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 370.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 396.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 423.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 449.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 476.3 133.82 26","service":"user-service"}
+{"level":"info","message":"End","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 290.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 317.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 343.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 370.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 396.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 423.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 449.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 476.3 133.82 26","service":"user-service"}
+{"level":"info","message":"End","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 290.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 317.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 343.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 370.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 396.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 423.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 449.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 476.3 133.82 26","service":"user-service"}
+{"level":"info","message":"End","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Waiting..","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 290.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 317.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 343.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 370.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 396.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 423.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 449.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 476.3 133.82 26","service":"user-service"}
+{"level":"info","message":"End","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 290.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 317.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 343.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 370.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 396.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 423.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 449.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 476.3 133.82 26","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 290.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 317.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 343.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 370.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 396.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 423.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 449.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 476.3 133.82 26","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"163.82 264.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 290.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 317.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 343.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 370.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 396.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 423.3 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 449.8 133.82 26","service":"user-service"}
+{"level":"info","message":"163.82 476.3 133.82 26","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":0,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":2,"service":"user-service"}
+{"level":"info","message":3,"service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
+{"level":"info","message":"processing pdf","service":"user-service"}
+{"level":"info","message":"making pdf","service":"user-service"}
+{"level":"info","message":"D:\\Programming\\Configuratore Pubblico\\server","service":"user-service"}
+{"level":"info","message":"Server listening on 4000","service":"user-service"}
