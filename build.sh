@@ -30,6 +30,8 @@ if test $f_e_flag -eq 1
 	if test $pub -eq 1
 		echo "publishing frontend"
 		sudo yes | cp app/public/* /var/webapps/config-leroy -r
+		sudo systemctl restart nginx
+
 	end
 end
 
@@ -43,5 +45,7 @@ if test $b_e_flag -eq 1
 		echo "publishing backend"
 		sudo yes | cp server/dist/* /var/webapps/config-leroy/server/ -R	
 		sudo yes | cp server/node_modules /var/webapps/config-leroy -R
+		sudo systemctl restart supervisor
+
 	end
 end
