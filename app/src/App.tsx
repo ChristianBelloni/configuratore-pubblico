@@ -15,11 +15,14 @@ import {
   Space,
   Title,
 } from "@mantine/core";
+
+import { useMediaQuery } from "@mantine/hooks";
+
 import { logger } from "./Controllers/Logger";
 
 function App() {
   const [appState, setAppState] = useState<ApplicationState>(DefaultState);
-
+  const mobile = useMediaQuery('(max-width: 500px)');
   const SetInputState = (input: InputState) => {
     let new_state: ApplicationState = appState;
     try {
@@ -64,7 +67,9 @@ function App() {
     return () => {};
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
-
+  const s = {
+     padding: mobile ? 0 : "5rem",
+  }
   return (
     <MantineProvider
       theme={{
@@ -74,7 +79,7 @@ function App() {
       withGlobalStyles
       withNormalizeCSS
     >
-      <Container style={{ padding: "5rem" }}>
+      <Container style={s}>
         <Card radius="lg">
           <Container size="lg">
             <Space h="lg" />

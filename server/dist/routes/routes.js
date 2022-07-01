@@ -17,6 +17,8 @@ var _bwipJs = _interopRequireDefault(require("bwip-js"));
 
 var _promises = require("fs/promises");
 
+var _priceService = require("../services/priceService");
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 const router = (0, _express.Router)();
@@ -63,6 +65,51 @@ router.post("/lista", async (req, res) => {
   _loggers.logger.info("making pdf");
 
   await (0, _pdfService.makePdf)(data, chunk => stream.write(chunk), () => stream.end());
+});
+router.get("/price:ean_code", async (req, res) => {
+  const code = req.params.ean_code; // perform price
+
+  const priceResult = (0, _priceService.GetPrice)(code);
+
+  if (priceResult.success) {
+    // success
+    _loggers.logger.info(`got price info: ${priceResult.response} euros`);
+
+    return res.status(200).json({
+      price: priceResult.response
+    });
+  } else if (priceResult.success == false) {
+    // error
+    const error = priceResult.response;
+
+    _loggers.logger.error(priceResult.response.msg);
+
+    switch (priceResult.response.code) {
+      case -1:
+        return res.status(500).json({
+          error
+        });
+      // not implemented
+
+      case 0:
+        return res.status(500).json({
+          error
+        });
+      // leroy error
+
+      case 1:
+        return res.status(404).json({
+          error
+        });
+      // not found
+
+      default:
+        return res.status(500).json({
+          error
+        });
+      // unknown error
+    }
+  }
 });
 var _default = router;
 exports.default = _default;

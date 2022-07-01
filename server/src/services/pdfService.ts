@@ -2,9 +2,9 @@ import pdfkit from "pdfkit";
 import PDFDocumentWithTables from "pdfkit-table";
 import { Table, Data, Rect, Header } from "../models/pdfHelpers";
 import { ApiCall, makeRow, OutputState } from "../models/products";
-import icon from "../imgs/icon.jpg";
 import { logger } from "../logging/loggers";
 import { cwd } from "process";
+import path, { resolve } from "path";
 
 const FONT_SIZE = 30;
 
@@ -55,8 +55,7 @@ async function makePdf(
 
   logger.info(cwd());
   doc.fontSize(15);
-  doc
-    .image((icon as string).replace("/dist", "./dist"), 495, 15, {
+  doc.image("/var/webapps/config-leroy/server/imgs/icon.jpg", 495, 15, {
       fit: [50, 50],
       align: "right",
       valign: "center",
@@ -70,6 +69,9 @@ async function makePdf(
       doc.font("Helvetica").fontSize(10),
   });
   doc.moveDown(7);
+  // @ts-ignore
+  await new Promise(resolveB => setTimeout(resolveB, 500));
+
   await doc.table(table, {
     prepareRow: (row, indexColumn, indexRow, rectRow, rectCell) => {
       const { x, y, width, height } = rectCell;
@@ -77,7 +79,7 @@ async function makePdf(
       if (indexColumn === 1) {
         try {
           c = doc
-            .image(`./dist/imgs/${row[1]}.png`, x + 2, y + 2, {
+            .image(resolve(__dirname.split(path.sep).pop().split(path.sep).pop(), `${row[1]}.png`), x + 2, y + 2, {
               width: width - 8,
               height: height - 4,
             })

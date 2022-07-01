@@ -13,9 +13,14 @@ var _loggers = require("../logging/loggers");
 
 var _process = require("process");
 
+var _path = _interopRequireWildcard(require("path"));
+
+function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function (nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
+
+function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || typeof obj !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-const icon = "/dist/imgs/70ef82bbee6d5b7f174a67a0629dff62.jpg";
 const FONT_SIZE = 30;
 
 async function makePdf(rawData, dataCall, endCall) {
@@ -56,7 +61,7 @@ async function makePdf(rawData, dataCall, endCall) {
   _loggers.logger.info((0, _process.cwd)());
 
   doc.fontSize(15);
-  doc.image(icon.replace("/dist", "./dist"), 495, 15, {
+  doc.image("/var/webapps/config-leroy/server/imgs/icon.jpg", 495, 15, {
     fit: [50, 50],
     align: "right",
     valign: "center"
@@ -68,7 +73,9 @@ async function makePdf(rawData, dataCall, endCall) {
   await doc.table(SettingsTable, {
     prepareRow: (row, indexColumn, indexRow, rectRow, rectCell) => doc.font("Helvetica").fontSize(10)
   });
-  doc.moveDown(7);
+  doc.moveDown(7); // @ts-ignore
+
+  await new Promise(resolveB => setTimeout(resolveB, 500));
   await doc.table(table, {
     prepareRow: (row, indexColumn, indexRow, rectRow, rectCell) => {
       const {
@@ -81,7 +88,7 @@ async function makePdf(rawData, dataCall, endCall) {
 
       if (indexColumn === 1) {
         try {
-          c = doc.image(`./dist/imgs/${row[1]}.png`, x + 2, y + 2, {
+          c = doc.image((0, _path.resolve)(__dirname.split(_path.default.sep).pop().split(_path.default.sep).pop(), `${row[1]}.png`), x + 2, y + 2, {
             width: width - 8,
             height: height - 4
           }).strokeOpacity(0).fillOpacity(0);

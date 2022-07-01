@@ -55,10 +55,10 @@ router.post("/lista", async (req, res) => {
 });
 
 router.get("/price:ean_code", async (req, res) => {
-  var code: string = req.params.ean_code;
+  const code: string = req.params.ean_code;
 
-  //perform price
-  var priceResult = GetPrice(code);
+  // perform price
+  const priceResult = GetPrice(code);
   if (priceResult.success) {
     // success
     logger.info(`got price info: ${priceResult.response} euros`);

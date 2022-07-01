@@ -8,8 +8,8 @@
       {
         "name": "[hash].[ext]",
         "extensions": ["png", "jpg", "jpeg", "gif", "svg"],
-        "publicPath": "/dist/imgs",
-        "outputPath": "/dist/imgs",
+        "publicPath": "./imgs",
+        "outputPath": "./imgs",
         "context": "",
         "limit": 0
       }
